@@ -1,4 +1,4 @@
-# 6th sem Data Science
+# 6th Sem Data Science MODULE 5
 This repository contains programs useful for hand-on sessions for 
 - MATPLOTLIB
 - TYPES OF GRAPHS
