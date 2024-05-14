@@ -1,4 +1,4 @@
-# 6th_sem_Data_Science
+# 6th sem Data Science
 This repository contains programs useful for hand-on sessions for 
 - MATPLOTLIB
 - TYPES OF GRAPHS
